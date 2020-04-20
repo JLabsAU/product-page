@@ -1,0 +1,32 @@
+.spacial-header section a {
+    border: 2px solid #ffffff;
+}
+
+.spacial-header section a:hover {
+    color: #000000;
+    background: #ffffff;
+    border: 2px solid #ffffff;
+}
+
+.spacial-cta-download {
+    background: #000000;
+}
+
+.spacial-cta-download a {
+    background: #000000;
+    border: 2px solid #ffffff;
+}
+
+.spacial-cta-download a:hover {
+    color: #000000;
+    background: #ffffff;
+    border: 2px solid #ffffff;
+}
+
+.footer {
+    background: #000000;
+}
+
+.navbar-dark, .spacial-header {
+    background: #000000 !important;
+}
